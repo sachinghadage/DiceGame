@@ -1,0 +1,31 @@
+body{
+    background-color: #19634f;
+}
+
+#tit {
+    color: #52e9e9;
+    display:block;
+    text-align: center;
+    font-size: 100px;
+    margin: 50px;
+}
+.dice{
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.img1{
+    height: 200px;
+    width: 200px;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+
+.dice p{
+    justify-content: center;
+}
